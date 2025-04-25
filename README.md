@@ -7,16 +7,14 @@ This space is where I share my hands-on experiments, study notebooks, and side p
 
 ### 🚀 Projects & Highlights
 
-| 🔢 | **Deep Learning Notebooks** |  
-|----|-----------------------------|  
-| 📘 [`deeplearning-w-pytorch`](https://github.com/Kko-projects/deeplearning-w-pytorch) — Core PyTorch concepts & CIFAR-10 image classifiers (MLP, VGG, ResNet, MobileNet)  
-| 🧠 Transfer Learning with VGG16 for Flower Classification  
-| 🖼️ SSD Object Detection with COCO images using NVIDIA TorchHub  
+| 📘 Repository | Description |
+|--------------|-------------|
+| [`deeplearning-w-pytorch`](https://github.com/Kko-projects/deeplearning-w-pytorch) | Core PyTorch concepts & CIFAR-10 image classifiers (MLP, VGG, ResNet, MobileNet) |
+| 🧠 Transfer Learning with VGG16 | Flower classification using transfer learning |
+| 🖼️ SSD Object Detection | COCO images using NVIDIA TorchHub |
+| [`Machine-Learning`](https://github.com/Kko-projects/Machine-Learning) | scikit-learn ML algorithms |
+| [`Data-Structure`](https://github.com/Kko-projects/Data-Structure) | Python-based data structure practice |
 
-| 📚 | **Other Study Repositories** |  
-|----|------------------------------|  
-| 📊 [`Machine-Learning`](https://github.com/Kko-projects/Machine-Learning) — scikit-learn ML algorithms  
-| 🧮 [`Data-Structure`](https://github.com/Kko-projects/Data-Structure) — Python-based data structure practice  
 
 ---
 
