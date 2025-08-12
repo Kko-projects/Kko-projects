@@ -29,8 +29,8 @@ This space is where I share my hands-on experiments, study notebooks, and side p
 
 ### ✨ Interests
 
-- 🧬 Deep Learning & Neuroscience  
-- 🧠 Bioinformatics & Brain Modeling  
+- 🧬 Deep Learning 
+- 🧠 Bioinformatics
 - 🌐 AI x Creativity Projects  
 
 ---
